@@ -4,8 +4,8 @@
 
 ## Usage 
 ### Dependencies
-This work depends on the following libraries:
-keras == 2.2.4
-Tensorflow == 1.13.0
-Python == 3.6
+This work depends on the following libraries: \n
+keras == 2.2.4 \n
+Tensorflow == 1.13.0 \n
+Python == 3.6 \n
 
